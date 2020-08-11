@@ -1,1 +1,1 @@
-# ru_aitextgen_test
+aitextgen — Train a Custom GPT-2 Model + Tokenizer testing in Russian language
